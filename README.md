@@ -1,5 +1,5 @@
 
-### Fashio Detection & Segmentation, Multi-Labels Classification and Attributes Embedding
+### Fashion Detection & Segmentation, Multi-Labels Classification and Attributes Embedding
 
 ### 1. Jeans Detection and Segmentation
 
